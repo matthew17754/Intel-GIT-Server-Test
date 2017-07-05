@@ -1,0 +1,26 @@
+using Pentium.starter-init;
+using Intel.sourceCode.net;
+using Intel.libloader.dll;
+
+	Pentium_startup = true;
+	Pentium_overClock = true;
+	Pentium_init = true;
+	Pentium_3.0GHZ = false;
+	Pentium_12.3GHZ = false;
+	Pentium_2.5GHZ = maybe;
+	Pentium_1.5GHZ = true;
+
+
+
+	Core.libloader.dll = init.run-setup_true;
+	EncryptionKey.sys.initilization.intel = run;
+
+ENCRYPTION SYSTEM 1010101:
+
+JU(F**_)W%O#@IPOID;jdgsd;jAT(#_*%)@#_(^)(+_^(#ID;kdgskgd;sK;dGSj49i6IDLSGI)#^@(#^#@)(^;ldkSGDJklJLDJGS#)^(#@^)@
+oRFp{asASfHASoihfKLSAHFLHASlFKSasj;LFasjFPLAS'J(#)^(#@:LKGJDSGJDLSkjdS)_^(#)@#^(_)#^(KDSG:LJDGSHJDSJG_)(#*)@%()fjsDGJDSG|
+asGDUS(#*TDKU(@*#)%*@_)@%(#-08sdgjkjdgsl*#@()*%#(*#@()%*#()%*#@*#:jfsjolifsjauu_*#@_%*(_lfjlsjKLJASlFJasjfKLASJ
+asjf#(%*#0-3;382ju;aSFJUPO*-0OPFAUS8JGDLSUG(*#(*@LJ#@^O#(^_*PIF;jaslidjusgfiulkJDSUDGSLN#(()@%*)LJDSKHGD:JSASJIGOIUSD
+as_#I@_%*(@)#_%(839058259308LHJLFJS(DSG&)(53(*)dusighsLdsljsfljsLKLjasf()%*(#@%*()##@)(*%(#)@kfsjasfjasljflsjLFJSJaljfl
+#@(lkgsd#)%)_@(#jdslfdkkjldfjjkdjgjp(#(@o%#i@(%#@i#@i%#oldsjjsjkdfsjk(sdglegcjdsjl60$)_(^$_)(#_)2398390PlJGU*()^*#_dsjdps'
+kdjslJGDSJgljU(#*%O@DJDSGLJg930wu5po2DJSGPOSDJDGLJDSL#E(U(#@^JDJSGJSDGJLSDJGDSKLkSDGJDS#UO@%PODGDSLJJDGjdlisJITEWKGJidsil

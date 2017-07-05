@@ -1,0 +1,22 @@
+using System;
+using System.runtime.output.run;
+using Moradi.syslib.loader.run;
+using Moradi.runlib.load.init;
+using intel.corp.server.com.init;
+using startup initialization;
+
+
+	private void main(args Anrgry){
+	intel.code run init = new system.runtime-start;
+	if(system = busy){
+	killTheRunner.init = true;
+	letTheRunnerLive = false;
+	donStopTheRunner = happy;
+	}
+
+	public void String Hungry;
+
+	String enlightenment = "Coding is hard. :(";
+	}
+    }
+]
